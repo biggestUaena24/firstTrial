@@ -1,2 +1,2 @@
 # firstTrial
-aewr kjhgskjfgkj 
+This is the first trial for future projects in github
